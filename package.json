@@ -1,0 +1,22 @@
+{
+  "name": "node-ssl-server",
+  "version": "1.0.0",
+  "description": "tutorial on using ssl on development server",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaquelaurenti/use-ssl-certificate-nodejs.git"
+  },
+  "author": "jaque laurenti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaquelaurenti/use-ssl-certificate-nodejs/issues"
+  },
+  "homepage": "https://github.com/Jaquelaurenti/use-ssl-certificate-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
